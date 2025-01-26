@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1735832869 source:c:\users\soapz\documents\exercícios em c++\problema-retangulo\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1735842539 source:c:\users\soapz\documents\exercícios em c++\alturas\main.cpp
+	<iostream>
+	<climits>
+	<iomanip>
+
