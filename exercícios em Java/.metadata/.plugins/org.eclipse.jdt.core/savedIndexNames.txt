@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\soapz\Documents\exercícios em Java\.metadata\.plugins\org.eclipse.jdt.core
+2168201564.index
+1865797976.index
+3160254357.index

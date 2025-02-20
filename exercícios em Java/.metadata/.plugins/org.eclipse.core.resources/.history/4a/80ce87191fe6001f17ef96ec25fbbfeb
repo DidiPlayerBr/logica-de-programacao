@@ -1,0 +1,25 @@
+import java.util.Locale;
+import java.util.Scanner;
+	
+public class somaImpares {
+
+	public static void main(String[] args) {
+			
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+		
+		int x, y, troca, soma;
+		
+		System.out.println();
+		x = sc.nextInt();
+		y = sc.nexrInt();
+		
+		for (int i = x+1; i < y; i++) {
+			
+		}
+			
+			
+		sc.close();	
+	}
+
+}
